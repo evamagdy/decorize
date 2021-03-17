@@ -9,7 +9,7 @@ export const environment = {
   //api_url: 'http://localhost:49539' ,//6500
   //vendor_url: 'http://localhost:4200',
   //admin_url: 'http://localhost:5000',
-  api_url: 'http://localhost:3000'
+  api_url: 'https://evamagdy.github.io/decorize'
   // api_url: 'https://takhfeed-api.mohamed-sadek.com/',
   //  vendor_url: 'https://takhfeed-vendor.mohamed-sadek.com/',
   // admin_url: 'https://takhfeed-admin.mohamed-sadek.com/'
